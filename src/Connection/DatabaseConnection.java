@@ -21,5 +21,4 @@ public class DatabaseConnection {
 //		}
 //	}
 	
-	Nhân đầu bùi 
 }
